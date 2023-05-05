@@ -1,0 +1,11 @@
+Mobiles---0 to 9
+Tablets---10 to 19
+Televisions---20 to 29
+Headphones---30 to 39
+Speakers---40 to 49
+Home Appliances---50 to 59
+Computers---60 to 69
+Cameras---70 to 79
+Kitchen Appliances---80 to 89
+PERSONAL CARE---90 to 99
+Accessories---100 to 109
